@@ -3,6 +3,6 @@
 
 int main()
 {
-    print_matrix_multiplication();
+    print_swap();
     return 0;
 }
